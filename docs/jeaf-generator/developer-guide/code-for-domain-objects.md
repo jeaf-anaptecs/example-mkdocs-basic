@@ -1,6 +1,5 @@
 ---
-title: "Developer Guide"
-subtitle: "Generating Code for Domain Objects"
+title: "Generating Code for Domain Objects"
 toc: false
 menubar: developer_guide_menu
 ---
