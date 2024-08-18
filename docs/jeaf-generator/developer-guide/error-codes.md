@@ -1,6 +1,5 @@
 ---
-title: "Developer Guide"
-subtitle: "JEAF Generator Error Codes"
+title: "JEAF Generator Error Codes"
 menubar: developer_guide_menu
 ---
 

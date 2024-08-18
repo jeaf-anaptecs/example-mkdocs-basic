@@ -1,6 +1,5 @@
 ---
-title: "Developer Guide"
-subtitle: "Overview Code Generation"
+title: "Overview Code Generation"
 toc: true
 menubar: developer_guide_menu
 ---

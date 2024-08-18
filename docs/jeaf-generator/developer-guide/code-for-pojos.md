@@ -1,6 +1,5 @@
 ---
-title: "Developer Guide"
-subtitle: "Generating Code for POJOs"
+title: "Generating Code for POJOs"
 toc: false
 menubar: developer_guide_menu
 ---

@@ -1,6 +1,5 @@
 ---
-title: "Developer Guide"
-subtitle: "Quickstart"
+title: "Quickstart"
 toc: true
 menubar: developer_guide_menu
 ---

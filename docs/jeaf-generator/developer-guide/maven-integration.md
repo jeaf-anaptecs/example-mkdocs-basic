@@ -1,6 +1,5 @@
 ---
-title: "Developer Guide"
-subtitle: "Integrate JEAF Generator into Maven Build"
+title: "Integrate JEAF Generator into Maven Build"
 toc: true
 menubar: developer_guide_menu
 ---

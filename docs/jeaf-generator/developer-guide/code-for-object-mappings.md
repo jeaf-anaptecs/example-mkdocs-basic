@@ -1,6 +1,5 @@
 ---
-title: "Developer Guide"
-subtitle: "Generating Code for Object Mappings"
+title: "Generating Code for Object Mappings"
 toc: false
 menubar: developer_guide_menu
 ---

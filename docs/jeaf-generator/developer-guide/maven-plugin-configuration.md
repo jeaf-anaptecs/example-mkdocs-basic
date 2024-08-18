@@ -1,6 +1,5 @@
 ---
-title: "Developer Guide"
-subtitle: "Maven Plugin Configuration"
+title: "Maven Plugin Configuration"
 toc: true
 menubar: developer_guide_menu
 

@@ -1,6 +1,5 @@
 ---
-title: "Developer Guide"
-subtitle: "Generating Code for JEAF Components"
+title: "Generating Code for JEAF Components"
 toc: false
 menubar: developer_guide_menu
 ---
